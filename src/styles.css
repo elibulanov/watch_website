@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bg-new {
+  background: #185adb;
+  color: #fff;
+}
+.canvas-new {
+  height: 500px;
+}
+.annotation {
+  background: #1c1c;
+  padding: 10px 5px;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
